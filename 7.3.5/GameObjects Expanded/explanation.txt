@@ -1,0 +1,1 @@
+For this file to make sense, you will have to manually create new gobjects in the gobject_template table using the new id's
