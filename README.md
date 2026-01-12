@@ -3,4 +3,4 @@
 
 My old mods for very old versions of WoW (they might not work, this shit is too old lol)
 
-These mods will not receive support or any fixes. Currently, I'm working exclusively with the current version and my RoleplayCore core.
+These mods will not receive support or any fixes. Currently, I'm working exclusively with the current version 11.2.7 and my RoleplayCore core.
